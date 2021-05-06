@@ -360,7 +360,8 @@
         "answer": "Answer",
         "audioCallTitle": "Incoming call",
         "decline": "Dismiss",
-        "productLabel": "from Jitsi Meet",
+        "productLabel": "from 
+Jitsi Meet",
         "videoCallTitle": "Incoming video call"
     },
     "info": {
@@ -929,10 +930,10 @@
         "getHelp": "Get help",
         "go": "GO",
         "goSmall": "GO",
-        "headerTitle": "ACADEMIC VIDEO CONFERENCE",
-        "headerSubtitle": "Test del Treball de Fi de Grau",
+        "headerTitle": "Jitsi Meet",
+        "headerSubtitle": "Secure and high quality meetings",
         "info": "Dial-in info",
-        "join": "CREAR CANAL",
+        "join": "CREATE / JOIN",
         "jitsiOnMobile": "Jitsi on mobile – download our apps and start a meeting from anywhere",
         "moderatedMessage": "Or <a href=\"{{url}}\" rel=\"noopener noreferrer\" target=\"_blank\">book a meeting URL</a> in advance where you are the only moderator.",
         "privacy": "Privacy",
